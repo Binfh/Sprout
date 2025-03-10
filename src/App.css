@@ -1,0 +1,58 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg-header: #05050580;
+  --bg-hover1: #be5a09;
+  --bd1: #4f4f4f;
+  --bg-arr: #d9d4c9;
+  --bg-3: #686736;
+  --bg-4: #797774;
+  --bg-5: #155dfc;
+  --cl-6: #e6f843;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+}
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}

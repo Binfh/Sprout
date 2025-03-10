@@ -1,0 +1,272 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ficus lyrata",
+      "price": 35.99,
+      "des": "Stunning indoor tree with large, violin-shaped leaves that adds elegance to any space. Known for its dramatic foliage and architectural presence, this tropical plant is perfect for modern interiors.",
+      "detail": "Native to western Africa, the Ficus lyrata thrives in bright, filtered light and moderate watering. This statement plant can grow up to 10 feet tall indoors with proper care. Keep soil slightly moist during growing season and allow to dry between waterings in winter. Dust large leaves occasionally to maintain its glossy appearance. Prefers temperatures between 65-75°F and benefits from occasional misting to increase humidity. Each plant comes in a 10-inch nursery pot and may vary slightly in size and shape, as each Ficus develops its own unique character.",
+      "image": [
+        "/src/assets/arrivals/img1_1.png",
+        "/src/assets/arrivals/img1_2.png"
+      ],
+      "rating": 4.5,
+      "review": 29
+    },
+    {
+      "id": 2,
+      "name": "Rusty Flowerpot",
+      "price": 20.99,
+      "des": "Vintage industrial-style flowerpot with a weathered, rust-colored finish. Adds character and warmth to interiors while creating a beautiful contrast with green foliage.",
+      "detail": "Crafted from durable iron with a specially treated finish that mimics natural rust patina without the deterioration. Each 8-inch diameter pot features a distressed, textured surface that varies slightly, making every piece unique. The pot includes drainage holes and a removable plug for indoor use. Safe for both indoor and outdoor plants, though the finish may naturally evolve when exposed to elements. Pair with succulents, trailing vines, or small ferns for a striking display. We recommend using a liner or saucer (not included) to protect surfaces from moisture.",
+      "image": [
+        "/src/assets/arrivals/img2_1.avif",
+        "/src/assets/arrivals/img2_2.avif"
+      ],
+      "rating": 4.0,
+      "review": 21
+    },
+    {
+      "id": 3,
+      "name": "Cactus",
+      "price": 19.99,
+      "des": "Low-maintenance cacti that bring desert beauty into your home. These architectural plants add unique texture and interest to any space with minimal care requirements.",
+      "detail": "This assorted cactus collection features hand-selected varieties that thrive in bright indoor environments. Each 4-inch pot contains a healthy, mature cactus measuring 6-10 inches in height. These drought-tolerant plants require minimal watering—typically once every 2-4 weeks depending on season and humidity. Plant in well-draining soil and place in a sunny location for best results. Varieties may include Barrel Cactus, Star Cactus, Old Lady Cactus, or similar species based on availability. Perfect for desks, windowsills, or creating eye-catching arrangements. Note: Protective gloves recommended for handling.",
+      "image": [
+        "/src/assets/arrivals/img3_1.avif",
+        "/src/assets/arrivals/img3_2.avif"
+      ],
+      "rating": 4.3,
+      "review": 2
+    },
+    {
+      "id": 4,
+      "name": "Wooden Basket",
+      "price": 28.99,
+      "des": "Handcrafted planter basket made from natural wood that brings warmth and texture to your home. Versatile design complements any decor style while providing a stylish home for plants.",
+      "detail": "Meticulously crafted from responsibly sourced acacia wood, this basket features a beautiful natural grain pattern that makes each piece unique. The 12-inch diameter basket comes with a removable plastic liner that protects the wood from moisture and makes plant care easier. The sturdy construction can support medium to large plants up to 15 pounds. The basket's woven design allows for airflow while its natural finish enhances the beauty of both flowering and foliage plants. Perfect for ferns, peace lilies, pothos, or any medium-sized houseplant. Wipe clean with a damp cloth and treat occasionally with food-safe wood oil to maintain its lustrous appearance.",
+      "image": [
+        "/src/assets/arrivals/img4_1.avif",
+        "/src/assets/arrivals/img4_2.avif"
+      ],
+      "rating": 4.5,
+      "review": 16
+    },
+    {
+      "id": 5,
+      "name": "Crassula",
+      "price": 19.99,
+      "des": "Popular jade plant with thick, glossy leaves and tree-like appearance. These resilient succulents store water in their leaves and require minimal care to thrive.",
+      "detail": "This Crassula variety features compact, fleshy leaves arranged in attractive patterns that resemble miniature trees. Each plant comes in a 6-inch pot and stands approximately 8-10 inches tall. Crassulas prefer bright, indirect light and require watering only when the soil is completely dry. Their drought-tolerant nature makes them perfect for busy households or offices. With proper care, these long-lived succulents can thrive for decades and may produce tiny star-shaped flowers in mature specimens. Known for their air-purifying qualities and believed to bring good fortune in many cultures. Includes care guide with tips for propagation, as these plants can easily be multiplied from leaf or stem cuttings.",
+      "image": [
+        "/src/assets/plants/plant1.avif",
+        "/src/assets/plants/plant2.avif"
+      ],
+      "rating": 4.5,
+      "review": 12
+    },
+    {
+      "id": 6,
+      "name": "Rhapis Palm",
+      "priceSale": 39.99,
+      "price": 28.99,
+      "des": "Elegant Lady Palm with fan-shaped fronds and multi-stemmed growth. Brings sophisticated tropical charm to interiors while being remarkably adaptable to indoor conditions.",
+      "detail": "Native to Asia, the Rhapis Palm is prized for its glossy, dark green foliage and distinctive architectural form. This slow-growing palm features multiple bamboo-like stems topped with fan-shaped leaf segments, creating an impressive yet refined presence. Each plant comes in an 8-inch pot and stands approximately 2 feet tall. Unlike many tropical plants, Rhapis Palms thrive in lower light conditions, making them perfect for rooms with north or east-facing windows. Keep soil consistently moist but not soggy, and mist occasionally to maintain humidity. These air-purifying plants are non-toxic to pets and can live for decades with proper care, potentially reaching 6-7 feet in height at maturity.",
+      "image": [
+        "/src/assets/plants/plant3.avif",
+        "/src/assets/plants/plant4.avif"
+      ],
+      "rating": 4.5,
+      "review": 36
+    },
+    {
+      "id": 7,
+      "name": "Alokazia Amazonian",
+      "price": 23.99,
+      "des": "Striking African Mask Plant with dramatic arrow-shaped leaves featuring prominent veining and metallic sheen. Creates an instant focal point with its unique foliage.",
+      "detail": "This Alocasia hybrid combines the best features of its tropical ancestors, resulting in beautiful deep green leaves with silvery-white veins that seem to glow against the dark foliage. Each plant comes in a 6-inch pot and typically features 3-5 impressive leaves, each measuring up to 12 inches long. Alocasia Amazonian thrives in bright, indirect light and prefers consistently moist soil and higher humidity. Regular misting or a nearby humidifier is recommended. The plant enters a dormancy period in winter, when watering should be reduced. As a tropical aroid, it appreciates warm temperatures between 65-85°F and protection from cold drafts. Note that all parts of this stunning plant are toxic if ingested, so keep away from pets and children.",
+      "image": [
+        "/src/assets/plants/plant5.avif",
+        "/src/assets/plants/plant6.avif"
+      ],
+      "rating": 4.5,
+      "review": 49
+    },
+    {
+      "id": 8,
+      "name": "Anthurium Clarinervium",
+      "priceSale": 33.2,
+      "price": 16.49,
+      "des": "Rare collector's plant with heart-shaped, velvety leaves featuring striking white veins on dark green foliage. Adds exotic luxury to any plant enthusiast's collection.",
+      "detail": "Native to Mexico, the Anthurium Clarinervium is a prized aroid known for its spectacular foliage that resembles velvet with contrasting silvery-white venation. Each plant comes in a 4-inch pot with 2-3 established leaves. This slow-growing epiphyte prefers bright, indirect light and high humidity levels of 60% or higher. Plant in well-draining aroid mix that retains some moisture while allowing air to reach the roots. Water when the top inch of soil feels dry, and never allow to sit in standing water. Mist regularly or place near a humidifier for optimal growth. Mature plants may produce spadix flowers, though they're grown primarily for their magnificent foliage. With proper care, new leaves will emerge with increasingly dramatic patterns. Note that all parts of the plant contain calcium oxalate crystals and are toxic if ingested.",
+      "image": [
+        "/src/assets/plants/plant7.avif",
+        "/src/assets/plants/plant8.avif"
+      ],
+      "rating": 4.5,
+      "review": 30
+    },
+    {
+      "id": 9,
+      "name": "Cereus",
+      "priceSale": 23.8,
+      "price": 15.0,
+      "des": "Tall, columnar cactus with ribbed texture that brings southwestern charm to your space. Adds vertical drama and sculptural beauty while requiring minimal attention.",
+      "detail": "This Cereus cactus features distinctive columnar stems with pronounced ribs and small areoles dotted with spines. Each plant comes in a 6-inch pot and stands approximately 12-18 inches tall. Native to the Americas, these night-blooming cacti may reward patient growers with spectacular large white flowers that open in the evening and close by morning. Cereus thrives in bright, direct sunlight and requires minimal watering—typically once every 3-4 weeks in growing season and even less in winter. Plant in very well-draining cactus soil to prevent root rot. These slow-growing plants can eventually reach impressive heights of 6+ feet when given proper conditions. Perfect for sunny windowsills, conservatories, or as striking focal points in minimalist and desert-inspired interiors. Handles dry indoor environments with ease.",
+      "image": [
+        "/src/assets/plants/plant9.avif",
+        "/src/assets/plants/plant10.avif"
+      ],
+      "rating": 4.5,
+      "review": 27
+    },
+    {
+      "id": 10,
+      "name": "Monstera",
+      "price": 26.99,
+      "des": "Iconic split-leaf plant with distinctive perforated foliage and tropical appeal. Combines dramatic appearance with easy care, perfect for both novice and experienced plant enthusiasts.",
+      "detail": "Native to the rainforests of Central America, the Monstera Deliciosa (Swiss Cheese Plant) is beloved for its unique fenestrated leaves that develop more dramatic splits and holes as the plant matures. Each plant comes in an 8-inch pot with 4-6 established leaves and stands approximately 18-24 inches tall. Monsteras thrive in medium to bright indirect light but adapt to lower light conditions, though fenestration may be less pronounced. Water when the top 2 inches of soil feel dry, typically every 7-10 days depending on conditions. As a climbing plant in nature, your Monstera may benefit from a moss pole or trellis as it grows. The natural aerial roots can be guided into the soil or allowed to add visual interest. With proper care, these fast-growing plants can add a new leaf every 4-6 weeks during growing season and can reach impressive sizes over time.",
+      "image": [
+        "/src/assets/plants/plant11.avif",
+        "/src/assets/plants/plant12.avif"
+      ],
+      "rating": 4.5,
+      "review": 18
+    },
+    {
+      "id": 11,
+      "name": "Schefflera Arboricola",
+      "priceSale": 30.6,
+      "price": 24.74,
+      "des": "Dwarf Umbrella Tree with glossy, palmate leaves radiating from central points. Creates an umbrella-like appearance that brings tropical elegance to any room.",
+      "detail": "Native to Taiwan, the Schefflera Arboricola is valued for its attractive, compact growth habit and distinctive foliage arrangement. Each plant comes in a 6-inch pot and stands approximately 14-18 inches tall. The glossy, medium-green leaves grow in clusters of 7-9 leaflets arranged in a circular pattern, creating the characteristic umbrella shape. This adaptable plant thrives in medium to bright indirect light but tolerates lower light conditions, making it perfect for offices and homes with limited natural light. Water when the top inch of soil feels dry, typically every 7-10 days. Responds well to occasional pruning to maintain shape and encourage bushier growth. Known for its air-purifying qualities, this long-lived houseplant can thrive for many years with basic care. Varieties may include variegated forms with cream or yellow markings for added visual interest.",
+      "image": [
+        "/src/assets/plants/plant15.avif",
+        "/src/assets/plants/plant16.avif"
+      ],
+      "rating": 4.5,
+      "review": 16
+    },
+    {
+      "id": 12,
+      "name": "Zamioculcas",
+      "price": 18.99,
+      "des": "Popular ZZ Plant with glossy, dark green leaves and exceptional durability. Thrives in all light conditions and forgives irregular watering, perfect for busy households and beginners.",
+      "detail": "Native to Eastern Africa, the ZZ Plant features distinctive pinnate leaves that grow from thick rhizomes storing water, allowing this plant to survive prolonged periods of neglect. Each plant comes in a 6-inch pot and stands approximately 15-20 inches tall. The ZZ Plant's glossy, waxy foliage grows in a naturally architectural form that complements modern interiors. It thrives in any light from low to bright indirect, making it one of the most versatile houseplants available. Water only when soil is completely dry, typically every 3-4 weeks. The plant grows slowly but steadily, with new stems emerging directly from the soil. All parts contain calcium oxalate crystals, so keep away from pets and wash hands after handling. Perfect for offices, bedrooms, or any space where you want the benefits of living plants with minimal maintenance. Known for its excellent air-purifying qualities, removing toxins while requiring little in return.",
+      "image": [
+        "/src/assets/plants/plant17.avif",
+        "/src/assets/plants/plant18.avif"
+      ],
+      "rating": 4.5,
+      "review": 17
+    },
+    {
+      "id": 13,
+      "name": "Graphite Pot",
+      "priceSale": 13.7,
+      "price": 11.99,
+      "des": "Sleek, modern pot with matte charcoal finish and clean lines. Creates a sophisticated container that complements any plant with contemporary style.",
+      "detail": "Crafted from high-quality ceramic with a rich, matte graphite finish that showcases subtle tonal variations. This 6-inch diameter pot features a drainage hole with a removable rubber plug for versatile use both indoors and out. The pot's clean, cylindrical silhouette and monochromatic palette make it perfect for showcasing the natural textures and colors of your plants. The slightly textured surface provides visual interest while remaining easy to clean with a damp cloth. Pairs beautifully with succulents, cacti, trailing vines, or small ferns. The neutral dark finish complements any interior design style from Scandinavian to industrial to minimalist. Available in additional sizes (sold separately) for creating coordinated plant displays throughout your space.",
+      "image": [
+        "/src/assets/sale/sale1.avif",
+        "/src/assets/sale/sale2.avif"
+      ],
+      "rating": 3.9,
+      "review": 39
+    },
+    {
+      "id": 14,
+      "name": "Rattan Basket",
+      "price": 35.99,
+      "des": "Hand-woven natural basket with intricate weaving pattern and warm honey tones. Adds bohemian charm and organic texture to your plant display.",
+      "detail": "Meticulously crafted by skilled artisans using sustainable rattan, each basket features a unique hand-woven pattern that showcases the natural beauty of this versatile material. The 12-inch diameter basket includes a removable plastic liner that protects the natural fibers while making plant care effortless. The sturdy construction can support plants up to 15 pounds, while the slightly tapered design creates a pleasing silhouette. The natural honey-toned finish develops a beautiful patina over time, though placement away from direct sunlight will help preserve its original color. Perfect for medium to large plants like ferns, peace lilies, or fiddle leaf figs. The basket's breathable construction promotes healthy root systems while its neutral palette complements any décor from coastal to bohemian to Scandinavian. Spot clean with a damp cloth and allow to air dry completely.",
+      "image": [
+        "/src/assets/pots/pot1.avif",
+        "/src/assets/pots/pot2.avif"
+      ],
+      "rating": 4.1,
+      "review": 20
+    },
+    {
+      "id": 15,
+      "name": "Concrete Pot",
+      "priceSale": 23.99,
+      "price": 12.99,
+      "des": "Minimalist pot with industrial style and organic texture. Each hand-poured vessel has natural variations, showcasing plants with understated elegance.",
+      "detail": "Handcrafted from a lightweight concrete composite, this pot offers the distinctive appearance of solid concrete at a fraction of the weight. Each 7-inch diameter pot features subtle variations in color and texture, making every piece one-of-a-kind. The pot includes drainage holes with a removable silicone plug for versatile use. The natural gray tones and slightly textured surface create a perfect neutral backdrop for the vibrant greens of your plants. The pot's clean, cylindrical shape complements both structured plants like succulents and cacti as well as trailing varieties like pothos or string of pearls. The porous nature of concrete may develop a beautiful patina over time, especially when used outdoors. To prevent water marks on surfaces, we recommend using the included cork pad or a separate plant saucer. Clean with a damp cloth and avoid harsh chemicals that may damage the finish.",
+      "image": [
+        "/src/assets/sale/sale3.avif",
+        "/src/assets/sale/sale4.avif"
+      ],
+      "rating": 4.8,
+      "review": 6
+    },
+    {
+      "id": 16,
+      "name": "Metal Pot",
+      "priceSale": 23.44,
+      "price": 19.99,
+      "des": "Sleek aluminum pot with industrial chic design and brushed finish. Adds contemporary style while creating striking contrast with organic plant forms.",
+      "detail": "Crafted from high-quality brushed aluminum with a protective clear coating that resists corrosion and fingerprints. Each 8-inch diameter pot features a seamless construction with a slightly tapered profile for a modern silhouette. The pot includes a removable plastic liner with drainage holes, making it easy to care for your plants while protecting the metal exterior. The lightweight yet sturdy design makes repositioning your plants effortless, even when filled. The neutral metallic finish reflects subtle light variations throughout the day, adding dimension to your plant display. Perfect for showcasing both dramatic foliage plants like snake plants or monstera, as well as cascading varieties like pothos or string of pearls. The pot's clean lines complement contemporary, industrial, and minimalist interiors. Wipe clean with a soft, dry cloth to maintain the brushed finish.",
+      "image": [
+        "/src/assets/sale/sale5.avif",
+        "/src/assets/sale/sale6.avif"
+      ],
+      "rating": 4.5,
+      "review": 24
+    },
+    {
+      "id": 17,
+      "name": "Pot Stand",
+      "price": 15.99,
+      "des": "Modern bamboo plant stand with clean lines and natural material. Elevates plants both literally and aesthetically while protecting surfaces and improving air circulation.",
+      "detail": "Crafted from sustainable bamboo with a clear protective finish, this plant stand features a simple yet elegant design that complements any décor style. The stand measures 12 inches in diameter and stands 6 inches tall, creating the perfect height for displaying plants on tables, countertops, or floors. The slatted platform allows for excellent airflow around your plants, promoting healthy root systems and preventing moisture buildup. The stand can support pots up to 10 inches in diameter and weights up to 22 pounds. The natural bamboo material coordinates beautifully with any pot style from ceramic to concrete to basket planters. Assembly is quick and tool-free with interlocking pieces that create a sturdy base. The raised design not only creates a more dynamic plant display but also protects your surfaces from moisture and scratches. Perfect for showcasing statement plants or creating multi-level plant groupings when used with multiple stands.",
+      "image": [
+        "/src/assets/pots/pot3.avif",
+        "/src/assets/pots/pot4.avif"
+      ],
+      "rating": 4.0,
+      "review": 15
+    },
+    {
+      "id": 18,
+      "name": "Beige Pot",
+      "priceSale": 33.1,
+      "price": 15.99,
+      "des": "Versatile ceramic pot with neutral tone and subtle speckled texture. The soft, earthy hue complements any plant while blending with diverse interior styles.",
+      "detail": "Crafted from durable ceramic with a matte beige glaze featuring subtle speckles that add organic texture and visual depth. This 7-inch diameter pot includes a drainage hole with a removable rubber plug for versatile use. The slightly tapered design creates a clean silhouette that works beautifully with both structured plants like succulents and cacti, as well as softer forms like ferns and trailing vines. The neutral color palette acts as a versatile backdrop that allows your plants to be the focal point while still adding subtle warmth to your space. The pot's glazed interior prevents moisture seepage while the textured exterior provides gentle visual interest. The substantial weight provides stability for taller plants. Perfect for creating cohesive plant displays when grouped with other neutral-toned containers. Pairs exceptionally well with both vibrant green foliage and plants with burgundy or variegated leaves. Wipe clean with a damp cloth as needed.",
+      "image": [
+        "/src/assets/sale/sale7.avif",
+        "/src/assets/sale/sale8.avif"
+      ],
+      "rating": 4.5,
+      "review": 10
+    },
+    {
+      "id": 19,
+      "name": "Exotic Plants Subscription",
+      "price": 100,
+      "des": "Monthly delivery of rare and unusual botanical treasures to your doorstep. Experience collecting hard-to-find specimens while expanding your plant knowledge.",
+      "detail": "Subscribe to receive a carefully selected exotic plant delivered to your home monthly. Each delivery includes a mature, healthy specimen that has been hand-selected for its unusual features, rare availability, or collector's value. Plants may include rare aroids, uncommon hoyas, unusual philodendrons, or other sought-after tropical varieties not typically found in local garden centers. Every plant comes in a 4-inch nursery pot with appropriate growing medium and is securely packaged to ensure safe arrival. Your monthly delivery also includes a detailed care card with specific instructions for your new plant, access to our online plant care database, and exclusive subscriber-only content featuring interviews with collectors and botanical experts. Choose from 3, 6, or 12-month subscription options with the ability to pause or cancel anytime. Perfect for experienced plant enthusiasts looking to expand their collection with unusual specimens. All plants are ethically and sustainably sourced from specialized growers.",
+      "image": [
+        "/src/assets/sub/sub1.avif",
+        "/src/assets/sub/sub2.avif"
+      ],
+      "rating": 5,
+      "review": 19
+    },
+    {
+      "id": 20,
+      "name": "Cactus Lover Subscription",
+      "price": 100,
+      "des": "Curated monthly selection of rare and fascinating cacti delivered to your door. Explore the diversity of desert specialists from tiny gems to sculptural statements.",
+      "detail": "Subscribe to receive a premium, hand-selected cactus delivered monthly. Each delivery features a unique specimen chosen for its distinctive form, rare variety, or collector's value. Our expert horticulturists source unusual cacti from around the world, including rare specimens from the Astrophytum, Mammillaria, Echinocactus, and Ariocarpus genera, among others. Plants arrive in appropriate-sized pots with specialized cactus soil and are carefully packaged to protect their delicate spines and structures. Each shipment includes detailed care instructions specific to your new cactus, information about its natural habitat and growth patterns, and access to our online database of cactus care resources. Choose from 3, 6, or 12-month subscription options with free shipping on all deliveries. A perfect gift for desert plant enthusiasts or anyone wanting to build a diverse cactus collection without the challenge of sourcing rare specimens. All cacti are nursery-grown from ethically collected seeds or cuttings, supporting sustainable cultivation practices.",
+      "image": [
+        "/src/assets/sub/sub3.avif",
+        "/src/assets/sub/sub4.avif"
+      ],
+      "rating": 4.5,
+      "review": 9
+    }
+  ]
+}
